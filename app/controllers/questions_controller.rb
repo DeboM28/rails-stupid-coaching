@@ -13,6 +13,6 @@ class QuestionsController < ApplicationController
       answer2
     else
       answer3
-    end
+              end
   end
 end
